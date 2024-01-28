@@ -1,0 +1,5 @@
+﻿  123.cpp
+D:\C++\Bai tap lon\Minesweeper\123\123.cpp(20,32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\C++\Bai tap lon\Minesweeper\123\123.cpp(20,39): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\C++\Bai tap lon\Minesweeper\123\123.cpp(96,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  123.vcxproj -> D:\C++\Bai tap lon\Minesweeper\x64\Debug\123.exe
